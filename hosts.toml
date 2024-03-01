@@ -18,6 +18,18 @@ system = "x86_64-linux"
 type = "nixos"
 system = "x86_64-linux"
 
+[debby]
+type = "nixos"
+system = "aarch64-linux"
+
 [zackbiene]
 type = "nixos"
 system = "aarch64-linux"
+
+[vanessa]
+type = "nixos"
+system = "x86_64-linux"
+
+[janna]
+type = "nixos"
+system = "x86_64-linux"
